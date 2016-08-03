@@ -1,5 +1,9 @@
 .post{
   font-family: sans-serif;
+  margin-top:10px;
+  margin-bottom: 10px;
+  border: 2px solid green;
+  padding: 5px
 }
 
 .about{
